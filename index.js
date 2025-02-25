@@ -1,4 +1,4 @@
-// practice
+// practice Java script
 
 
 let firstName= 'Aron';
