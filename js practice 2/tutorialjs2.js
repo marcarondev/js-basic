@@ -1,5 +1,4 @@
 
-
 // tutorial challange 1
 let p1 = "Alenere";
 let p2 = "david";
